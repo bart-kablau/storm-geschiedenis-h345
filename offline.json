@@ -1,0 +1,116 @@
+{
+ "build": "bdb4be567a",
+ "appBytes": 1691080,
+ "app": [
+  "assets/font/fredoka-500.woff2",
+  "assets/font/fredoka-600.woff2",
+  "assets/font/fredoka-700.woff2",
+  "assets/font/nunito-400.woff2",
+  "assets/font/nunito-600.woff2",
+  "assets/font/nunito-700.woff2",
+  "assets/font/nunito-800.woff2",
+  "assets/icon-192.png",
+  "assets/icon-512.png",
+  "content.js",
+  "ezels.js",
+  "index.html",
+  "manifest.webmanifest",
+  "math.js",
+  "offline.js",
+  "speelles/assets/font/fredoka-500.woff2",
+  "speelles/assets/font/fredoka-600.woff2",
+  "speelles/assets/font/fredoka-700.woff2",
+  "speelles/assets/font/nunito-400.woff2",
+  "speelles/assets/font/nunito-600.woff2",
+  "speelles/assets/font/nunito-700.woff2",
+  "speelles/assets/font/nunito-800.woff2",
+  "speelles/biologie/teken.js",
+  "speelles/biologie/vis.css",
+  "speelles/biologie/vis.js",
+  "speelles/engine.css",
+  "speelles/engine.js",
+  "speelles/geschiedenis/teken.js",
+  "speelles/geschiedenis/vis.css",
+  "speelles/geschiedenis/vis.js",
+  "speelles/index.html",
+  "speelles/lessen.js",
+  "video/manifest.js"
+ ],
+ "media": [
+  {
+   "pad": "video/bourgondiers-centralisatie.mp4",
+   "hash": "44f71508ae09",
+   "bytes": 22250861
+  },
+  {
+   "pad": "video/bourgondiers-huwelijk.mp4",
+   "hash": "ccc07d76c775",
+   "bytes": 17314859
+  },
+  {
+   "pad": "video/gouden-eeuw-amsterdam.mp4",
+   "hash": "75562cf7c25a",
+   "bytes": 21953756
+  },
+  {
+   "pad": "video/gouden-eeuw-voc-wic.mp4",
+   "hash": "eabc081c0f13",
+   "bytes": 18176665
+  },
+  {
+   "pad": "video/karel-geloof.mp4",
+   "hash": "1629037d5c1c",
+   "bytes": 19871566
+  },
+  {
+   "pad": "video/karel-wereldrijk.mp4",
+   "hash": "2e4d899ea7c8",
+   "bytes": 18851572
+  },
+  {
+   "pad": "video/kerkscheuring-keizer.mp4",
+   "hash": "26598d036557",
+   "bytes": 16603353
+  },
+  {
+   "pad": "video/kerkscheuring-luther.mp4",
+   "hash": "140bea4bfad2",
+   "bytes": 18049397
+  },
+  {
+   "pad": "video/opstand-beeldenstorm.mp4",
+   "hash": "2632466b1a2a",
+   "bytes": 16495084
+  },
+  {
+   "pad": "video/opstand-eigen-land.mp4",
+   "hash": "9eb77fe515a2",
+   "bytes": 22523303
+  },
+  {
+   "pad": "video/opstand-filips.mp4",
+   "hash": "87bb35fc822b",
+   "bytes": 19713930
+  },
+  {
+   "pad": "video/opstand-republiek.mp4",
+   "hash": "aef8fc610ce8",
+   "bytes": 18380524
+  },
+  {
+   "pad": "video/strijd-maurits.mp4",
+   "hash": "4e1a31acdf4d",
+   "bytes": 25394470
+  },
+  {
+   "pad": "video/strijd-oldenbarnevelt.mp4",
+   "hash": "5bbf64351be0",
+   "bytes": 17988814
+  },
+  {
+   "pad": "video/tijdlijn-rode-draad.mp4",
+   "hash": "91d28172bb67",
+   "bytes": 37853537
+  }
+ ]
+}

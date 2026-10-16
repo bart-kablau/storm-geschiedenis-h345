@@ -1,0 +1,1 @@
+window.VIDEOS = ["bourgondiers-centralisatie","bourgondiers-huwelijk","gouden-eeuw-amsterdam","gouden-eeuw-voc-wic","karel-geloof","karel-wereldrijk","kerkscheuring-keizer","kerkscheuring-luther","opstand-beeldenstorm","opstand-eigen-land","opstand-filips","opstand-republiek","strijd-maurits","strijd-oldenbarnevelt","tijdlijn-rode-draad"];

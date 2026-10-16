@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8">
+<title>Geschiedenis Speelles</title>
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="description" content="Speelbare uitleg voor geschiedenis 3.5, 4.2 tot en met 4.5 en 5.2: van Luther tot de Gouden Eeuw.">
+<!-- Engine en bouwstenen komen uit tools/speelles-engine (node tools/speelles-engine/sync.mjs). Alleen lessen.js is van dit pakket. -->
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 24 24%22%3E%3Crect width=%2224%22 height=%2224%22 rx=%226%22 fill=%22%23EA580C%22/%3E%3Ccircle cx=%2210%22 cy=%2210%22 r=%225.5%22 fill=%22none%22 stroke=%22white%22 stroke-width=%222.4%22/%3E%3Cpath d=%22M14.5 14.5 L20 20%22 stroke=%22white%22 stroke-width=%222.8%22 stroke-linecap=%22round%22/%3E%3C/svg%3E">
+<link rel="stylesheet" href="engine.css">
+<link rel="stylesheet" href="biologie/vis.css">
+<link rel="stylesheet" href="geschiedenis/vis.css">
+</head>
+<body>
+<header class="kop"><div class="kop-in">
+  <button class="merk" id="naar-kaart" aria-label="Naar de kaart"><i id="merk-ikoon"></i><span id="merk-naam"></span></button>
+  <div class="stats">
+    <div class="lvl"><b id="lvl-naam"></b><div class="xpbalk"><i id="xp-vul"></i></div></div>
+    <div class="xpn"><span id="xp-n">0</span> XP</div>
+    <button class="ikoon" id="stem" aria-pressed="false" aria-label="Voorlezen aan of uit">🔈</button>
+  </div>
+</div></header>
+<main class="wrap" id="scherm"></main>
+<div id="toasts" aria-live="polite"></div>
+<canvas id="confetti"></canvas>
+<script src="engine.js"></script>
+<script src="biologie/teken.js"></script>
+<script src="biologie/vis.js"></script>
+<script src="geschiedenis/teken.js"></script>
+<script src="geschiedenis/vis.js"></script>
+<script src="lessen.js"></script>
+</body>
+</html>
